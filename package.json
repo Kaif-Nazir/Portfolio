@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@react-three/postprocessing": "^3.0.4",
+    "three": "^0.176.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.4"
+  },
+  "scripts": {
+  "build": "vite build",
+  "dev": "vite"
+}
+}
