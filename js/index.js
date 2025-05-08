@@ -1,4 +1,4 @@
-
+import '/public/resume.pdf';
 document.addEventListener("DOMContentLoaded", () => {
   const scrollBtn = document.querySelector(".scroll-top");
   if (scrollBtn) {
